@@ -1,5 +1,10 @@
+## Important Links
 
-## System requirments
+- Moodle http://www.lehre-hydro.uni-freiburg.de
+- HOBO Meta table https://tinyurl.com/hobometa2019
+- Exercises: Go to ...
+
+## System requirements
 
 ### For the data analysis part following software/resources are needed:
 
