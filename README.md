@@ -7,6 +7,7 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 4. Install following packages: `tidyverse`, `lubridate`, `rio`, `zoo`, `sf` (other packages will follow...)
 5. Use your HOBO measurement protocol and go to the _HOBO Meta table_ and insert your HOBO meta information there.
 6. Go to https://rmarkdown.rstudio.com/authoring_quick_tour.html and make sure that your R Studio is "R Markdown"-ready. Check if you are able to `knitr` a R Markdown file (HTML, PDF).
+7. Read the HOBO Manual (Download PDF above) to learn how the sensor/logger works (i.e. precision, uncertainty, ranges).
 
 ## Important Links
 
