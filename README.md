@@ -3,7 +3,7 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 ## To-Do list first day
 1. Create a Github account and join the students team of the `data-hydenv` (see invitation link per e-mail).
 2. Enroll with course password on Moodle (http://www.lehre-hydro.uni-freiburg.de).
-3. Prepare your computer with software (R Studio) and ensure that you are able to install and load packages.
+3. Prepare your computer with software (e.g. R Studio) and ensure that you are able to install and load packages. Be sure that you know the main features of R Studio App (console, load/save scripts, getting help, `View()`, Main preferences, Connection to CRAn server)
 4. Install following packages: `tidyverse`, `lubridate`, `rio`, `zoo`, `sf` (other packages will follow...)
 5. Use your HOBO measurement protocol and go to the _HOBO Meta table_ and insert your HOBO meta information there.
 6. Go to https://rmarkdown.rstudio.com/authoring_quick_tour.html and make sure that your R Studio is "R Markdown"-ready. Check if you are able to `knitr` a R Markdown file (HTML, PDF).
