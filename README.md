@@ -31,8 +31,10 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 - pgAdmin 3
 
 QGIS (https://qgis.org/de/site/forusers/download.html). QGIS is available for Windows, Mac and Linux.
+
 On top you will need a software for managing PostgreSQL database servers. There are two options:
 pgAdminIII (Caution: not pgAmin4!!!!). For Windows/Mac: https://www.pgadmin.org/download/ ; Linux userswill find pgAdminIII in the software repositories of Debian, Ubuntu, CentOS/Redhat/Fedora and OpenSuse, always called 'pgadmin3'
+
 __DataGrip__: This is the preferred software, but it is a proprietary chargeable software. For students it is free, in case you register using a university mail adress. DataGrip is available for Windows, Mac and Linux. 
 DataGrip is way more powerful than pgAdmin, but not open Source. You can accomplish the lecture with both products.
 
