@@ -76,5 +76,8 @@ If an older version of a package is needed you can often download archived versi
 install.packages("http://cran.r-project.org/src/contrib/Archive/RNetLogo/RNetLogo_0.9-6.tar.gz", repo=NULL, type="source")
 install.packages("C:\\Downloads\RNetLogo_0.9-6.tar.gz", repos = NULL, type="source")
 ```
+## R for Data Science
+
+Book: R for Data Science (Wickham & Grolemund) https://r4ds.had.co.nz/
 
 
