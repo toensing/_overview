@@ -21,7 +21,8 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 
 - Moodle http://www.lehre-hydro.uni-freiburg.de
 - HOBO Meta table https://tinyurl.com/hobometa2019
-- Exercises: https://data-hydenv.github.io/exercises/ (Webpage with all Exercises)
+- Exercises: https://data-hydenv.github.io/exercises/ (Webpage with all Exercises and Code snippets)
+- Visit the Course Resources section https://github.com/data-hydenv/cheatsheets_resources
 
 ## System requirements
 
