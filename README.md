@@ -9,7 +9,6 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
     - `lubridate`
     - `skimr`
     - `padr`
-    - `rio` 
     - `zoo`
     - `sf` 
     - `RPostgreSQL` (see details below)
