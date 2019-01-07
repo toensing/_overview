@@ -7,7 +7,7 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 4. Install following packages: 
     - `tidyverse`
     - `lubridate`
-    - `skim`
+    - `skimr`
     - `padr`
     - `rio` 
     - `zoo`
@@ -59,5 +59,18 @@ install.packages("devtools")
 devtools::install_github("r-lib/devtools")
 ```
 
+A third possibility is to use the dialog _Install packages_ in the _Tools_ menu in R Studio. To get an overview on your R session and the attached packages use:
+
+```{R}
+search()
+sessionInfo()
+```
+
+If an older version of a package is needed you can often download archived version from the package homepage (search for package name + CRAN). Archives can be installed with:
+
+```{R}
+install.packages("http://cran.r-project.org/src/contrib/Archive/RNetLogo/RNetLogo_0.9-6.tar.gz", repo=NULL, type="source")
+install.packages("C:\\Downloads\RNetLogo_0.9-6.tar.gz", repos = NULL, type="source")
+```
 
 
