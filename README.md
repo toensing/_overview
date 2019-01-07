@@ -54,7 +54,7 @@ Normally the CRAN server is used to install `install.packages("a_package_name")`
 
 If you want to install a pre-release of a package or a package that is not supported by CRAN but available on Github you use `devtools`. The command is a combination of github account (here: `r-lib`) and name of the package/repository (here: `devtools`). 
 
-```{r}
+```{R}
 install.packages("devtools")
 devtools::install_github("r-lib/devtools")
 ```
