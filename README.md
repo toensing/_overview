@@ -50,7 +50,7 @@ DataGrip is way more powerful than pgAdmin, but not open Source. You can accompl
 
 ## Install packages in R
 
-Normally the CRAN server is used to install `install.packages("a_package_name")` from the console. Packages then loaded with `library(a_package_name)`.
+Normally the CRAN server is used to install `install.packages("a_package_name")` from the console. Packages are then loaded with `library(a_package_name)`. Check for error- or warning-messages in the console.
 
 If you want to install a pre-release of a package or a package that is not supported by CRAN but available on Github you use `devtools`. The command is a combination of github account (here: `r-lib`) and name of the package/repository (here: `devtools`). 
 
