@@ -12,6 +12,7 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
     - `rio` 
     - `zoo`
     - `sf` 
+    - `RPostgreSQL` (see details below)
     - other packages will follow...
 5. Use your HOBO measurement protocol and go to the _HOBO Meta table_ and insert your HOBO meta information there.
 6. Go to https://rmarkdown.rstudio.com/authoring_quick_tour.html and make sure that your R Studio is "R Markdown"-ready. Check if you are able to `knitr` a R Markdown file (HTML, PDF).
