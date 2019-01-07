@@ -80,6 +80,5 @@ install.packages("C:\\Downloads\RNetLogo_0.9-6.tar.gz", repos = NULL, type="sour
 
 Book: R for Data Science (Wickham & Grolemund) https://r4ds.had.co.nz/
 
-(https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png)
-
+<img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" width="200">
 
