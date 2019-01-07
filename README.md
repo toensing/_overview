@@ -5,8 +5,8 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 2. Enroll with course password on Moodle (http://www.lehre-hydro.uni-freiburg.de).
 3. Prepare your computer with software (e.g. R Studio) and ensure that you are able to install and load packages. Be sure that you know the main features of R Studio App (console, load/save scripts, getting help, `View()`, Main preferences, Connection to CRAn server)
 4. Install following packages: 
-    - `tidyverse`, 
-    - `lubridate`,
+    - `tidyverse`
+    - `lubridate`
     - `skim`
     - `padr`
     - `rio` 
