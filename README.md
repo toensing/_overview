@@ -36,7 +36,7 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 
 ### For the (Geo)-databases part the following software is needed:
 
-- QGIS 3.x
+- QGIS 3.x (or QGIS 2.14/2.18 if you have experienced problems with version 3.x).
 - pgAdmin 3
 
 QGIS (https://qgis.org/de/site/forusers/download.html). QGIS is available for Windows, Mac and Linux.
