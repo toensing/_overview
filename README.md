@@ -12,7 +12,7 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
     - `zoo`
     - `sf` 
     - `RPostgreSQL` (see details below)
-    - other packages will follow...
+    - other packages will follow (e.g. see R Markdown section below).
 5. Use your HOBO measurement protocol and go to the _HOBO Meta table_ and insert your HOBO meta information there.
 6. Read the HOBO Manual (Download PDF above) to learn how the sensor/logger works (i.e. precision, uncertainty, ranges).
 
