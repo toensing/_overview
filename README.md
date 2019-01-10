@@ -14,8 +14,7 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
     - `RPostgreSQL` (see details below)
     - other packages will follow...
 5. Use your HOBO measurement protocol and go to the _HOBO Meta table_ and insert your HOBO meta information there.
-6. Go to https://rmarkdown.rstudio.com/authoring_quick_tour.html and make sure that your R Studio is "R Markdown"-ready. Check if you are able to `knitr` a R Markdown file (HTML, PDF).
-7. Read the HOBO Manual (Download PDF above) to learn how the sensor/logger works (i.e. precision, uncertainty, ranges).
+6. Read the HOBO Manual (Download PDF above) to learn how the sensor/logger works (i.e. precision, uncertainty, ranges).
 
 ## Important Links
 
@@ -77,6 +76,14 @@ If an older version of a package is needed you can often download archived versi
 install.packages("http://cran.r-project.org/src/contrib/Archive/RNetLogo/RNetLogo_0.9-6.tar.gz", repo=NULL, type="source")
 install.packages("C:\\Downloads\RNetLogo_0.9-6.tar.gz", repos = NULL, type="source")
 ```
+
+## R Markdown
+
+Install the packages `rmarkdown` and `radix` in your R Studio. Go to https://rmarkdown.rstudio.com/authoring_quick_tour.html and make sure that your R Studio is "R Markdown"-ready. Check if you are able to `knitr` a R Markdown file (HTML, PDF).
+ - Go To _New File_ in R Studio and select _R Markdown_. There you can choose a new _Radix Article_ from the _Template_menu. An example file is loaded. Save it and try to `Knit` it into HTML or PDF. The `radix` package offers R Markdown files with scientific features.
+
+
+
 ## R for Data Science
 
 Book: R for Data Science (Wickham & Grolemund) https://r4ds.had.co.nz/
