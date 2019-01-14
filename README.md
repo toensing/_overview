@@ -52,6 +52,8 @@ Finally, a R package is needed:
 
 - **RPostgreSQL**, make sure that the R package RPostgreSQL is installed and can be imported. Linux users might have to         additionally install the package *postgresql-server-10-dev* to make RPostgreSQL work properly as R fails to install all       dependencies in some circumstances.
 
+- other useful packages beside `sf` for spatial data analysis in R: `leaflet`, `mapview`, `ggmap`, `tmap`, `raster`
+
 ## Install packages in R
 
 Normally the CRAN server is used to install `install.packages("a_package_name")` from the console. Packages are then loaded with `library(a_package_name)`. Check for error- or warning-messages in the console.
