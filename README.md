@@ -5,16 +5,12 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 2. Enroll with course password on Moodle (http://www.lehre-hydro.uni-freiburg.de).
 3. Prepare your computer with software (e.g. R Studio) and ensure that you are able to install and load packages. Be sure that you know the main features of R Studio App (console, load/save scripts, getting help, `View()`, Main preferences, Connection to CRAn server)
 4. Install following packages: 
-    - `tidyverse`
-    - `lubridate`
-    - `skimr`
-    - `padr`
-    - `zoo`
-    - `sf` 
-    - `RPostgreSQL` (see details below)
-    - other packages will follow (e.g. see R Markdown section below).
-5. Use your HOBO measurement protocol and go to the _HOBO Meta table_ and insert your HOBO meta information there.
-6. Read the HOBO Manual (Download PDF above) to learn how the sensor/logger works (i.e. precision, uncertainty, ranges).
+    - `tidyverse`, `lubridate`, `zoo`, `sf`,
+    - `skimr`, `padr` (might be helpful),
+    - `RPostgreSQL` (see details below),
+    - see also R Markdown section below.
+5. Use your HOBO measurement protocol and go to the _HOBO Meta table_ and insert your HOBO meta information there. Double check your Lon/Lat information (in decimal number) if really the correct location is described.
+6. Check the HOBO Manual (Download PDF above) to learn how the sensor/logger works (i.e. precision, uncertainty, ranges).
 
 ## Important Links
 
