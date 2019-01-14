@@ -50,7 +50,7 @@ You can install either of both, or both products.
 
 Finally, a R package is needed:
 
-- **RPostgreSQL**, make sure that the R package RPostgreSQL is installed and can be imported. Linux users might have to         additionally install the package *postgresql-server-10-dev* to make RPostgreSQL work properly as R fails to install all       dependencies in some circumstances.
+- `RPostgreSQL`, make sure that the R package RPostgreSQL is installed and can be imported. Linux users might have to         additionally install the package *postgresql-server-10-dev* to make RPostgreSQL work properly as R fails to install all       dependencies in some circumstances.
 
 - other useful packages beside `sf` for spatial data analysis in R: `leaflet`, `mapview`, `ggmap`, `tmap`, `raster`
 
