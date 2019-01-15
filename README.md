@@ -1,4 +1,6 @@
 Welcome to the Module Data Collection, Data Storage, Data Management.
+![](schedule_2019.png)
+
 
 ## To-Do list first day
 1. Create a Github account and join the students team of the `data-hydenv` (see invitation link per e-mail).
