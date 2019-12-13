@@ -80,8 +80,9 @@ install.packages("C:\\Downloads\RNetLogo_0.9-6.tar.gz", repos = NULL, type="sour
 
 ## R Markdown ready?
 
-Install the packages `rmarkdown` and `radix` in R Studio. Go to https://rmarkdown.rstudio.com/authoring_quick_tour.html and make sure that your R Studio is "R Markdown"-ready. Check if you are able to `knitr` a R Markdown file (HTML, PDF).
- - Go To _New File_ in R Studio and select _R Markdown_. There you can choose a new _Radix Article_ from the _Template_menu. An example file is loaded. Save it and try to `Knit` it into HTML or PDF. The `radix` package offers R Markdown files with scientific features.
+Install the packages `rmarkdown` and `distill` in R Studio. Go to https://rmarkdown.rstudio.com/authoring_quick_tour.html and make sure that your R Studio is "R Markdown"-ready. Check if you are able to `knitr` a R Markdown file (HTML, PDF).
+
+ - Go To _New File_ in R Studio and select _R Markdown_. There you can choose a new _Distill Article_ from the _Template_menu. An example file is loaded. Save it and try to `Knit` it into HTML or PDF. The `distill` package offers R Markdown files with scientific features (see https://rstudio.github.io/distill/).
 
 
 
