@@ -25,12 +25,11 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 
 ### For the time series data analysis part following software/resources are needed:
 
-- R Studio (with Internet access)
-- An up-to-date R Version (must not be the latest version)
-- Texteditor (normal TextEdit is enough, but you can look for more advanced editors)
+- Internet access is really important (check your ability to connect with the "eduroam"-wifi).
+- R Studio (> V 1.0) (with Internet access) and R Installation (R > 3.5.x is recommended)
+- Texteditor (normal TextEdit is enough, but you can look for more advanced editors), e.g. https://www.textpad.com/
 - MS Excel (helpful) or comparable software
 - MS Word or word processor (to write report) or comparable software
-- Internet access is really important (eduroam Wi-Fi).
 
 ### For the (Geo)-databases part the following software is needed:
 
