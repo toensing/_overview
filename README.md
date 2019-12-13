@@ -14,7 +14,7 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 5. Use your HOBO measurement protocol and go to the _HOBO Meta table_ and insert your HOBO meta information there. Double check your Lon/Lat information (in decimal number) if really the correct location is described.
 6. Check the HOBO Manual (Download PDF above) to learn how the sensor/logger works (i.e. precision, uncertainty, ranges).
 
-## Important Links
+# Important Links
 
 - Moodle http://www.lehre-hydro.uni-freiburg.de
 - HOBO Meta table https://tinyurl.com/hobometa2019
