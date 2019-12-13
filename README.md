@@ -17,13 +17,11 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 # Important Links
 
 - Moodle http://www.lehre-hydro.uni-freiburg.de
-- HOBO Meta table https://tinyurl.com/hobometa2019
+- HOBO Meta table http://tiny.cc/hobometa2020
 - Exercises: https://data-hydenv.github.io/exercises/ (Webpage with all Exercises and Code snippets)
 - Visit the Course Resources section https://github.com/data-hydenv/cheatsheets_resources
 
 ## System requirements
-
-
 
 | **For the time series data analysis part** |
 |---|
