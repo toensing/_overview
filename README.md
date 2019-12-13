@@ -27,7 +27,7 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 
 - Internet access is really important (check your ability to connect with the "eduroam"-wifi).
 - R Studio (> V 1.0) (with Internet access) and R Installation (R > 3.5.x is recommended)
-- Texteditor (normal TextEdit is enough, but you can look for more advanced editors), e.g. https://www.textpad.com/
+- Texteditor (normal TextEdit is enough, but you can look for more advanced editors), e.g. https://www.textpad.com/ (Win) or https://www.barebones.com/ (Mac)
 - MS Excel (helpful) or comparable software
 - MS Word or word processor (to write report) or comparable software
 
