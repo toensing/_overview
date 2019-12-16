@@ -33,12 +33,13 @@ Welcome to the Module Data Collection, Data Storage, Data Management.
 
 ### For the (Geo)-databases part the following software is needed:
 
-- QGIS 3.x. **It is highly recommended to use QGis 3.4**, as this version is used for demonstration. In case you use any 2.x, it has to be > 2.12 and note that the software changed substantially from version 2 to 3. Examples during class might work different in version 2.x. However, QGis >2.12 and 3.x are all technically capable of solving the tasks.  
+- QGIS 3.x. **It is highly recommended to use QGis >3.4**, as this version is used for demonstration. In case you use any 2.x, it has to be > 2.12 and note that the software changed substantially from version 2 to 3. Examples during class might work different in version 2.x. However, QGis >2.12 and 3.x are all technically capable of solving the tasks.  
 QGIS download: https://qgis.org/de/site/forusers/download.html. QGIS is available for Windows, Mac and Linux.
 
 On top you will need a software for managing PostgreSQL database servers. There are two options:
-- **pgAdmin3**: 
-  pgAdminIII (Caution: not pgAmin4!!!!). For Windows/Mac: https://www.pgadmin.org/download/ ; Linux users will find             pgAdminIII in the software repositories of Debian, Ubuntu, CentOS/Redhat/Fedora and OpenSuse, always called 'pgadmin3'
+- **pgAdmin4**: 
+  pgAdmin4 (Caution: not pgAmin3). For Windows/Mac: https://www.pgadmin.org/download/ ; Linux users will find pgAdminIII in the software repositories of Debian, Ubuntu, CentOS/Redhat/Fedora and OpenSuse, always called 'pgadmin4'.
+  There is also **pgAdmin3**, which is completely fine and maybe the more intuitive product, however version 3 and 4 are fundamentally different and it might be hard to follow the examples with version 3.
 
 - **DataGrip**: This is the preferred software, but it is a proprietary chargeable software. For students it is free, in case   you register using a university mail adress. DataGrip is available for Windows, Mac and Linux. 
   DataGrip is way more powerful than pgAdmin, but not open Source. **You can accomplish the lecture with both products**.
